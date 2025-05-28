@@ -1,5 +1,5 @@
 
-# 🧠 Text Generation using RNN in Keras
+# 🧠 Text Generation using LSTM
 
 This project shows how to train a simple text generation model using Recurrent Neural Networks (RNNs) with Keras. The model learns to predict the next word in a sentence based on the previous words.
 
